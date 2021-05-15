@@ -1,0 +1,1 @@
+CMakeLists.txt not found in D:\02_PROGRAMOWANIE\openGL\GL Select CMakeLists.txt

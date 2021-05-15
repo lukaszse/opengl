@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/02_PROGRAMOWANIE/openGL/OpenGL_rotacja3D/main.c
+DevGL/gl.h
+-
+DevGL/glu.h
+-
+DevGL/glut.h
+-
+

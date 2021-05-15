@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\openglTest.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\openglTest.dir/objects.a @CMakeFiles\openglTest.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\openglTest.dir/objects.a -Wl,--no-whole-archive  -o openglTest.exe -Wl,--out-implib,libopenglTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\openglTest.dir\linklibs.rsp

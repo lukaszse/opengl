@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\OpenGL_glut.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\OpenGL_glut.dir/objects.a @CMakeFiles\OpenGL_glut.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\OpenGL_glut.dir/objects.a -Wl,--no-whole-archive  -o OpenGL_glut.exe -Wl,--out-implib,libOpenGL_glut.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OpenGL_glut.dir\linklibs.rsp
