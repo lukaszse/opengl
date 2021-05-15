@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/02_PROGRAMOWANIE/openGL/OpenGL_object_reader/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+GL/glut.h
+-
+
